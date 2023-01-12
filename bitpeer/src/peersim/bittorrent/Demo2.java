@@ -114,8 +114,8 @@ public class Demo2 {
      }
 
      //
-     solver.addConstraint(constraint, LpSolve.LE, 1);
-     solver.addConstraint(constraint, LpSolve.GE, 0);
+     //solver.addConstraint(constraint, LpSolve.LE, 1);
+    // solver.addConstraint(constraint, LpSolve.GE, 0);
      
 
 
